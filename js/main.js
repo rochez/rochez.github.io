@@ -1,5 +1,5 @@
 jQuery(document).ready(function($){
-  	console.log("js is twerking : )");
+  	console.log("js is twerking...");
   	
   	$('.no-js').hide(); 
 
